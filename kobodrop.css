@@ -310,7 +310,7 @@ button {
 }
 
 .right-col  {
-    background: url('/images/testimonial.png');
+    background: url('./images/testimonial.png');
     height: 600px;
     flex-basis: 40%;
     background-position: bottom;
